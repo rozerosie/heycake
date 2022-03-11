@@ -175,6 +175,7 @@ defmodule HeyCake.Slack.Events.Message do
     "pie",
     "popcorn",
     "shaved_ice"
+    "choco-taco"
   ]
 
   @impl true
